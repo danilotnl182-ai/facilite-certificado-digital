@@ -1,10 +1,12 @@
-# Facilite Certificado Digital - Landing Page
+# Facilite Certificado Digital - Landing Page Atualizada
 
-Arquivos para publicar no GitHub Pages:
+Alterações incluídas:
+- Atendimento em Parauapebas e região
+- Endereço completo
+- Mapa do Google
+- CTA mais forte para WhatsApp
+- Depoimentos com identificação local
+- Selos de confiança
+- Serviços com chamada para consultar valores
 
-- index.html
-- style.css
-- script.js
-- assets/responsavel-facilite.png
-
-Para atualizar o site, envie todos os arquivos para a raiz do repositório.
+Para atualizar no GitHub: envie/substitua `index.html`, `style.css`, `script.js` e `responsavel-facilite.png`.
