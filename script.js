@@ -1,7 +1,7 @@
 // Animações suaves da landing page
 const observer = new IntersectionObserver((entries) => {
   entries.forEach((entry) => {
-    if (entry.isIntersecting) entry.target.classList.add('visible');
+    if (entry.isIntersecting) entry.target.classList.add('show');
   });
 }, { threshold: 0.12 });
 
