@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://facilitecertificadodigital.com.br/sitemap.xml
